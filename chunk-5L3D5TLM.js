@@ -1,0 +1,1 @@
+import{Ha as o,ab as a,bb as s,hb as i}from"./chunk-NZGSPL5B.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-favourites"]],decls:2,vars:0,template:function(e,f){e&1&&(a(0,"p"),i(1,"favourites works!"),s())},encapsulation:2})};export{n as Favourites};

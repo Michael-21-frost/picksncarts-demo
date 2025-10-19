@@ -1,0 +1,1 @@
+import{Ha as t,ab as o,bb as c,hb as a}from"./chunk-NZGSPL5B.js";var p=class i{static \u0275fac=function(e){return new(e||i)};static \u0275cmp=t({type:i,selectors:[["app-privacy-policy"]],decls:2,vars:0,template:function(e,r){e&1&&(o(0,"p"),a(1,"privacy-policy works!"),c())},encapsulation:2})};export{p as PrivacyPolicy};

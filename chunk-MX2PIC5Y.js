@@ -1,0 +1,1 @@
+import{Ha as t,ab as s,bb as n,hb as r}from"./chunk-NZGSPL5B.js";var o=class i{static \u0275fac=function(e){return new(e||i)};static \u0275cmp=t({type:i,selectors:[["app-deliveries"]],decls:2,vars:0,template:function(e,l){e&1&&(s(0,"p"),r(1,"deliveries works!"),n())},encapsulation:2})};export{o as Deliveries};

@@ -1,0 +1,1 @@
+import{Ha as s,ab as o,bb as a,hb as n}from"./chunk-NZGSPL5B.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["app-forget-pass"]],decls:2,vars:0,template:function(e,i){e&1&&(o(0,"p"),n(1,"forget-pass works!"),a())},encapsulation:2})};export{r as ForgetPass};

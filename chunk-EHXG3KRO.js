@@ -1,0 +1,1 @@
+import{Ha as i,ab as n,bb as r,hb as o}from"./chunk-NZGSPL5B.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-verify"]],decls:2,vars:0,template:function(e,f){e&1&&(n(0,"p"),o(1,"verify works!"),r())},encapsulation:2})};export{a as Verify};

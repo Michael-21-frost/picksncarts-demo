@@ -1,0 +1,1 @@
+import{Ha as r,ab as o,bb as s,hb as n}from"./chunk-NZGSPL5B.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=r({type:t,selectors:[["app-browser"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),n(1,"browser works!"),s())},encapsulation:2})};export{a as Browser};

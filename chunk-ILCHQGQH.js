@@ -1,0 +1,1 @@
+import{Ha as o,ab as n,bb as a,hb as i}from"./chunk-NZGSPL5B.js";var c=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-location"]],decls:2,vars:0,template:function(t,l){t&1&&(n(0,"p"),i(1,"location works!"),a())},encapsulation:2})};export{c as Location};

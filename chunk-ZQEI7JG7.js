@@ -1,0 +1,1 @@
+import{Ha as a,ab as s,bb as n,hb as r}from"./chunk-NZGSPL5B.js";var o=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=a({type:e,selectors:[["app-carts"]],decls:2,vars:0,template:function(t,i){t&1&&(s(0,"p"),r(1,"carts works!"),n())},encapsulation:2})};export{o as Carts};
