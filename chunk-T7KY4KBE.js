@@ -1,0 +1,1 @@
+import{Ca as i,cb as n,db as r,sb as o}from"./chunk-2SFP4N2H.js";import"./chunk-EQDQRRRY.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-verify"]],decls:2,vars:0,template:function(e,f){e&1&&(n(0,"p"),o(1,"verify works!"),r())},encapsulation:2})};export{a as Verify};
